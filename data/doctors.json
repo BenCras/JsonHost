@@ -1,36 +1,38 @@
-{
+[
+  {
     "name": "Sarah Johnson",
-    "gender": 'F',
+    "gender": "F",
     "rating": 4.8,
     "image": "https://example.com/images/doctor-sarah-johnson.jpg"
-},
-{
+  },
+  {
     "name": "Michael Chen",
-    "gender": 'M',
+    "gender": "M",
     "rating": 4.6,
     "image": "https://example.com/images/doctor-michael-chen.jpg"
-},
-{
+  },
+  {
     "name": "Rachel Kim",
-    "gender": 'F',
+    "gender": "F",
     "rating": 4.9,
     "image": "https://example.com/images/doctor-rachel-kim.jpg"
-},
-{
-"name": "Dr. Jennifer Lee",
-"gender": 'F',
-"rating": 4.7,
-"image": "https://example.com/images/doctor-jennifer-lee.jpg"
-},
-{
-"name": "Dr. David Rodriguez",
-"gender": 'M',
-"rating": 4.5,
-"image": "https://example.com/images/doctor-david-rodriguez.jpg"
-},
-{
-"name": "Dr. Emily Nguyen",
-"gender": 'F',
-"rating": 4.8,
-"image": "https://example.com/images/doctor-emily-nguyen.jpg"
-}
+  },
+  {
+    "name": "Dr. Jennifer Lee",
+    "gender": "F",
+    "rating": 4.7,
+    "image": "https://example.com/images/doctor-jennifer-lee.jpg"
+  },
+  {
+    "name": "Dr. David Rodriguez",
+    "gender": "M",
+    "rating": 4.5,
+    "image": "https://example.com/images/doctor-david-rodriguez.jpg"
+  },
+  {
+    "name": "Dr. Emily Nguyen",
+    "gender": "F",
+    "rating": 4.8,
+    "image": "https://example.com/images/doctor-emily-nguyen.jpg"
+  }
+]
