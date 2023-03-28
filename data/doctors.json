@@ -3,36 +3,36 @@
     "name": "Sarah Johnson",
     "gender": "F",
     "rating": 4.8,
-    "image": "https://example.com/images/doctor-sarah-johnson.jpg"
+    "image": "https://images.pexels.com/photos/5717583/pexels-photo-5717583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
     "name": "Michael Chen",
     "gender": "M",
     "rating": 4.6,
-    "image": "https://example.com/images/doctor-michael-chen.jpg"
+    "image": "https://images.pexels.com/photos/15663475/pexels-photo-15663475.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   },
   {
     "name": "Rachel Kim",
     "gender": "F",
     "rating": 4.9,
-    "image": "https://example.com/images/doctor-rachel-kim.jpg"
+    "image": "https://images.pexels.com/photos/15007333/pexels-photo-15007333.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   },
   {
     "name": "Jennifer Lee",
     "gender": "F",
     "rating": 4.7,
-    "image": "https://example.com/images/doctor-jennifer-lee.jpg"
+    "image": "https://images.pexels.com/photos/15567698/pexels-photo-15567698.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   },
   {
     "name": "David Rodriguez",
     "gender": "M",
     "rating": 4.5,
-    "image": "https://example.com/images/doctor-david-rodriguez.jpg"
+    "image": "https://images.pexels.com/photos/15551777/pexels-photo-15551777.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   },
   {
     "name": "Emily Nguyen",
     "gender": "F",
     "rating": 4.8,
-    "image": "https://example.com/images/doctor-emily-nguyen.jpg"
+    "image": "https://images.pexels.com/photos/12172082/pexels-photo-12172082.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
   }
 ]
