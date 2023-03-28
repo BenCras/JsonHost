@@ -18,19 +18,19 @@
     "image": "https://example.com/images/doctor-rachel-kim.jpg"
   },
   {
-    "name": "Dr. Jennifer Lee",
+    "name": "Jennifer Lee",
     "gender": "F",
     "rating": 4.7,
     "image": "https://example.com/images/doctor-jennifer-lee.jpg"
   },
   {
-    "name": "Dr. David Rodriguez",
+    "name": "David Rodriguez",
     "gender": "M",
     "rating": 4.5,
     "image": "https://example.com/images/doctor-david-rodriguez.jpg"
   },
   {
-    "name": "Dr. Emily Nguyen",
+    "name": "Emily Nguyen",
     "gender": "F",
     "rating": 4.8,
     "image": "https://example.com/images/doctor-emily-nguyen.jpg"
