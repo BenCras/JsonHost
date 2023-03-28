@@ -1,38 +1,44 @@
 [
-  {
-    "name": "Sarah Johnson",
-    "gender": "F",
-    "rating": 4.8,
-    "image": "https://images.pexels.com/photos/5717583/pexels-photo-5717583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-  },
-  {
-    "name": "Michael Chen",
-    "gender": "M",
-    "rating": 4.6,
-    "image": "https://images.pexels.com/photos/15663475/pexels-photo-15663475.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  },
-  {
-    "name": "Rachel Kim",
-    "gender": "F",
-    "rating": 4.9,
-    "image": "https://images.pexels.com/photos/15007333/pexels-photo-15007333.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  },
-  {
-    "name": "Jennifer Lee",
-    "gender": "F",
-    "rating": 4.7,
-    "image": "https://images.pexels.com/photos/15567698/pexels-photo-15567698.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  },
-  {
-    "name": "David Rodriguez",
-    "gender": "M",
-    "rating": 4.5,
-    "image": "https://images.pexels.com/photos/15551777/pexels-photo-15551777.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  },
-  {
-    "name": "Emily Nguyen",
-    "gender": "F",
-    "rating": 4.8,
-    "image": "https://images.pexels.com/photos/12172082/pexels-photo-12172082.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load"
-  }
+   {
+      "name": "Sarah Johnson",
+      "gender": "F",
+      "rating": 4.8,
+      "image": "https://images.pexels.com/photos/5717583/pexels-photo-5717583.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "motivation": "Dr. Sarah Johnson is committed to providing the best dental care for her patients. She believes in making each visit as comfortable and painless as possible."
+   },
+   {
+      "name": "Michael Chen",
+      "gender": "M",
+      "rating": 4.6,
+      "image": "https://images.pexels.com/photos/15663475/pexels-photo-15663475.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "motivation": "Dr. Michael Chen is passionate about helping his patients achieve healthy, beautiful smiles. He takes the time to listen to their concerns and develop personalized treatment plans."
+   },
+   {
+      "name": "Rachel Kim",
+      "gender": "F",
+      "rating": 4.9,
+      "image": "https://images.pexels.com/photos/15007333/pexels-photo-15007333.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "motivation": "Dr. Rachel Kim believes in educating her patients about the importance of oral hygiene and preventive care. She strives to make each appointment a positive experience for her patients."
+   },
+   {
+      "name": "Jennifer Lee",
+      "gender": "F",
+      "rating": 4.7,
+      "image": "https://images.pexels.com/photos/15567698/pexels-photo-15567698.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "motivation": "Dr. Jennifer Lee is dedicated to providing the highest quality dental care in a friendly and comfortable environment. She understands that each patient is unique and tailors her treatment to meet their individual needs."
+   },
+   {
+      "name": "David Rodriguez",
+      "gender": "M",
+      "rating": 4.5,
+      "image": "https://images.pexels.com/photos/15551777/pexels-photo-15551777.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "motivation": "Dr. David Rodriguez believes in building long-lasting relationships with his patients based on trust and mutual respect. He takes pride in delivering exceptional care and helping his patients achieve their dental goals."
+   },
+   {
+      "name": "Emily Nguyen",
+      "gender": "F",
+      "rating": 4.8,
+      "image": "https://images.pexels.com/photos/12172082/pexels-photo-12172082.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
+      "motivation": "Dr. Emily Nguyen is dedicated to providing personalized and compassionate dental care to all her patients. She strives to make each visit a positive and comfortable experience."
+   }
 ]
